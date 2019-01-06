@@ -1,0 +1,8 @@
+tidyverse
+spNNGP
+knitr
+RColorBrewer
+raster
+sp
+rgeos
+rasterVis
